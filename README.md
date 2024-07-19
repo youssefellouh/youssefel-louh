@@ -51,6 +51,7 @@ Technologies I've been learning and using so far :
    ![Docker](http://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=0db7ed)
    ![Google Colab](http://img.shields.io/badge/-Google%20Colab-eee?style=flat-square&logo=googlecolab&logoColor=F9AB00)
     ![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0052CC)
+    ![Kaggle](http://img.shields.io/badge/-Kaggle-eee?style=flat-square&logo=kaggle&logoColor=20BEFF)
 
 
 
